@@ -269,7 +269,3 @@ _(Reboots every 24 hours)_
 - Help us make Pwnagotchi smarter!
 
 ---
-
-## 📜 License
-
-TelePwn is licensed under [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0).
